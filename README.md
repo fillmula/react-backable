@@ -24,7 +24,7 @@ override fun onBackPressed() {
 
 [React Navigation View](https://github.com/fillmula/react-navigation-view) and
 [React Sheet Presentation](https://github.com/fillmula/react-sheet-presentation)
-has this integrated. You don't need to install this package manually normally.
+have this integrated. You don't need to install this package manually normally.
 
 # Author
 
