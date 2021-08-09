@@ -1,7 +1,7 @@
 {
   "name": "react-backable",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Android back button support for web apps.",
   "types": "lib/index.d.ts",
   "main": "lib/index.js",
   "scripts": {
